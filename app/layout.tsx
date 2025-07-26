@@ -53,11 +53,6 @@ export const metadata: Metadata = {
   verification: {
     google: "your-google-verification-code", // Adicione seu código de verificação
   },
-  icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
-    apple: "/favicon.ico",
-  },
     generator: 'v0.dev'
 }
 
